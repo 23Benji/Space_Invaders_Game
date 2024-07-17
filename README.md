@@ -42,6 +42,11 @@ cd space-invaders-python</code></pre>
             <img src=res/images/pause.png alt="Balance Window" width="350">
             <img src=res/images/GameOver.png alt="Balance Window" width="350"><br>
         </ul>
+        <h2>Atribution</h2>
+        <li><a href="https://www.flaticon.com/free-icons/rocket" title="rocket icons">Rocket icons created by Freepik - Flaticon</a></li>
+        <li><a href="https://www.flaticon.com/free-icons/bullet" title="bullet icons">Bullet icons created by Freepik - Flaticon</a></li>
+        <li><a href="https://www.flaticon.com/free-icons/alien" title="alien icons">Logo icons created by Freepik - Flaticon</a></li>
+        <li><a href="https://www.flaticon.com/free-icons/alien" title="alien icons">Alien icons created by Freepik - Flaticon</a></li>
         <h2>Contributing</h2>
         <p>Feel free to fork this repository and submit pull requests. Contributions, bug reports, and feature requests are welcome!</p>
         <h2>License</h2>
