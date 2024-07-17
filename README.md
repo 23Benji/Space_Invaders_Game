@@ -50,6 +50,6 @@ cd space-invaders-python</code></pre>
         <h2>Contributing</h2>
         <p>Feel free to fork this repository and submit pull requests. Contributions, bug reports, and feature requests are welcome!</p>
         <h2>License</h2>
-        <p> This project is open source and licensed under the [MIT License](/LICENSE).</p><br>
+        <p> This project is open source and licensed under the [<a href="LICENSE" title License>MIT LICENSE</a>].</p><br>
         <p>Enjoy reliving the nostalgia of Space Invaders! Happy gaming!</p>
 </body>
